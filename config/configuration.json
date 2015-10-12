@@ -1,0 +1,8 @@
+{
+  "PORT" : 3000,
+  "HOST" : "localhost",
+
+  "Server" : {
+    "IP" : "1.1.1.1"
+  }
+}

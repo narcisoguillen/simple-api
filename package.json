@@ -1,0 +1,16 @@
+{
+  "scripts" : {
+    "start" : "node index.js"
+  },
+
+  "engines": {
+    "node": "0.12.0"
+  },
+
+  "dependencies" : {
+    "hapi"       : "8.4.x",
+    "underscore" : "1.8.x",
+    "nconf"      : "0.7.x",
+    "ldapjs"     : "0.7.x"
+  }
+}
